@@ -11,9 +11,9 @@ For running the programs yourself -
     pandas 0.20+
     ```
   
-  For Debian derivatives the package `glpk-utils` is needed.
+    For Debian derivatives the package `glpk-utils` is needed.
   
-  For RHEL and Arch Linux derivatives the package `glpk` is needed.
+    For RHEL and Arch Linux derivatives the package `glpk` is needed.
   
   
   2. Create a new directory and copy `all_point_sets.txt` and all the `.py` files in it.
